@@ -10,4 +10,6 @@ public class DevopsCiCdApplication {
 		SpringApplication.run(DevopsCiCdApplication.class, args);
 	}
 
+	
+	
 }
